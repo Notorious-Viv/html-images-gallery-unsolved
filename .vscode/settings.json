@@ -4,5 +4,6 @@
   "cSpell.words": [
     "Devslopes",
     "Flexbox"
-  ]
+  ],
+  "editor.cursorStyle": "underline-thin"
 }
